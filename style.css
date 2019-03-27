@@ -1,0 +1,31 @@
+body{
+    background: url(./images/waterfalls.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+body,
+html {
+  width: auto;
+  height: auto;
+  
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.row{
+    color: white;
+    font-weight: bolder;
+    opacity: .8;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 210px;
+}
+
+.button-row{
+    margin-top:50px;
+}
+
